@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "generate": "node generate.js"
+  },
+  "dependencies": {
+    "docx": "^9.8.1"
+  }
+}
